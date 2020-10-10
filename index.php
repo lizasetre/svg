@@ -4,22 +4,22 @@
 			.linecircle{
 				width: 200px;
 				height: 300px;
-				background-color: #66e8cc;
+				background-color: #FFA7C3;
 			}
 			.circlerectangle{
 				width: 200px;
 				height: 300px;
-				background-color: #f0bc00;
+				background-color: #FF5A89;
 			}
 			.polylinecircle{
 				width: 200px;
 				height: 300px;
-				background-color: #00f7ff;
+				background-color: #FFA7C3;
 			}
 			.polygoncircle{
 				width: 200px;
 				height: 300px;
-				background-color: #f0bc00;
+				background-color: #FF5A89;
 			}
 		</style>
 	</head>
